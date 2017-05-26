@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.17.jar commons-lang-2.6.jar jackson-databind-2.9
+ .0.pr1.jar jackson-annotations-2.9.0.pr1.jar commons-beanutils-1.8.3.
+ jar ezmorph-1.0.6.jar junit-4.1.jar json-simple-1.1.jar commons-loggi
+ ng-1.1.1.jar commons-collections-3.2.1.jar jackson-core-2.9.0.pr3.jar
+Main-Class: com.movies.start.StartApp
+

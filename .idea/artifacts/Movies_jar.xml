@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Movies:jar">
+    <output-path>$PROJECT_DIR$/../Movies/out/artifacts/Movies_jar</output-path>
+    <root id="archive" name="Movies_jar.jar">
+      <element id="archive" name="Movies.jar">
+        <element id="module-output" name="Movies" />
+      </element>
+      <element id="library" level="project" name="com.fasterxml.jackson.core:jackson-databind:2.8.0" />
+      <element id="library" level="project" name="log4j-1.2.17" />
+      <element id="library" level="project" name="commons-lang-2.6" />
+      <element id="library" level="project" name="jackson-databind-2.9.0.pr1" />
+      <element id="library" level="project" name="jackson-annotations-2.9.0.pr1" />
+      <element id="library" level="project" name="commons-beanutils-1.8.3" />
+      <element id="library" level="project" name="ezmorph-1.0.6" />
+      <element id="library" level="project" name="junit-4.1" />
+      <element id="library" level="project" name="json-simple-1.1" />
+      <element id="library" level="project" name="commons-logging-1.1.1" />
+      <element id="library" level="project" name="commons-collections-3.2.1" />
+      <element id="library" level="project" name="jackson-core-2.9.0.pr3" />
+    </root>
+  </artifact>
+</component>
